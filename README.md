@@ -1,4 +1,4 @@
-# Conventional Changelog action
+# Conventional Changelog action dummy change
 
 This action will bump version, tag commit and generate a changelog with conventional commits.
 
